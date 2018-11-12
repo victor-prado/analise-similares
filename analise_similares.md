@@ -35,8 +35,9 @@ Armazenagem em nuvem que permite compartilhamento.
 Armazena histórico do paciênte: caracteristicas, exames feitos, historico de doenças.
 
 ## Aplicações Potenciais
-### [Gupy](https://www.gupy.io/)
-É uma aplicação de recrutamento. Uma determinada vaga exige candidatos com um certo conjunto de habilidades, o sistema casa os candidatos que possuem tais habilidades.
+### [Quantum Computing Microsoft](https://www.microsoft.com/en-us/quantum/quantum-computing-applications)
+### [Quantum Computing IBM](https://www.research.ibm.com/ibm-q/learn/quantum-computing-applications/)
+### [Quantum Computing NQIT](https://nqit.ox.ac.uk/content/applications-quantum-computing)
 
 ## Prioridade
 ### [Priority Matrix](https://play.google.com/store/apps/details?id=com.appfluence.prioritymatrix&hl=en)
